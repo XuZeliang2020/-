@@ -4,7 +4,7 @@
 
 ### 常用文件
 
-- #### Pytorch GPU配置 [Sentiment-Analysis-papers](https://github.com/XuZeliang2020/Treasure-Box/tree/Pytorch-GPU%E7%89%88%E6%9C%AC%E9%85%8D%E7%BD%AE)
+- #### [Pytorch GPU配置](https://github.com/XuZeliang2020/Treasure-Box/tree/Pytorch-GPU%E7%89%88%E6%9C%AC%E9%85%8D%E7%BD%AE)
 
 - #### 
 
